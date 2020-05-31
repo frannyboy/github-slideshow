@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+*Dwyane Wade* is the **GOAT**  
 Use the left arrow to go back!
